@@ -1,0 +1,8 @@
+name: responder
+description: Description of responder
+version: 0.0.1
+
+event_handlers:
+  events.messenger-bot.message-received:
+    description: Handling requests from FB
+    file: scripts/response.js
