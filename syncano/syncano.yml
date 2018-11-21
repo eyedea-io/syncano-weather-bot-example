@@ -1,6 +1,0 @@
-dependencies:
-  sockets:
-    openweathermap:
-      version: 0.0.28
-    messenger-bot:
-      version: 0.1.11

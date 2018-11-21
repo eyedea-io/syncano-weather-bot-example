@@ -1,0 +1,26 @@
+{
+  "name": "syncano-weather-bot-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@eyedea-sockets/openweathermap": "^0.1.8",
+    "@eyedea-sockets/messenger-bot": "0.0.1"
+  },
+  "devDependencies": {
+    "@syncano/cli": "^0.14.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eyedea-io/syncano-weather-bot-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eyedea-io/syncano-weather-bot-example/issues"
+  },
+  "homepage": "https://github.com/eyedea-io/syncano-weather-bot-example#readme"
+}
